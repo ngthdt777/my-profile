@@ -2,14 +2,13 @@ import Link from 'next/link'
 
 export default function NavBar(){
     return (
-        <nav>
-        <h1>This is nav</h1>
+      <nav>
         <Link href="/">Home</Link>
-        <Link href="/about">This is about page</Link>
-        <Link href="/contact">This is contact page</Link>
-        <Link href="/portfolio">This is portfolio page</Link>
-        <Link href="/resume">This is resume page</Link>
-        <Link href="/services">This is services page</Link>
+        <Link href="/about">About</Link>
+        <Link href="/contact">Contact</Link>
+        <Link href="/portfolio">Portfolio</Link>
+        <Link href="/resume">Resume</Link>
+        <Link href="/services">Services</Link>
       </nav>
     )
 }
