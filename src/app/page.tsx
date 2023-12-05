@@ -27,12 +27,12 @@ export default function Home() {
           </p> 
         </a>
         <div className="px-5">
-        <Link href="/"className={`pr-5 hover:font-semibold`}>Home</Link>
-        <Link href="/about" className={`px-5 hover:font-semibold`}>About</Link>
-        <Link href="/contact" className={`px-5 hover:font-semibold`}>Contact</Link>
-        <Link href="/portfolio" className={`px-5 hover:font-semibold`}>Portfolio</Link>
-        <Link href="/resume" className={`px-5 hover:font-semibold`}>Resume</Link>
-        <Link href="/services" className={`px-5 hover:font-semibold`}>Services</Link>      
+          <Link href="/"className={`pr-5 hover:font-semibold`}>Home</Link>
+          <Link href="/about" className={`px-5 hover:font-semibold`}>About</Link>
+          <Link href="/contact" className={`px-5 hover:font-semibold`}>Contact</Link>
+          <Link href="/portfolio" className={`px-5 hover:font-semibold`}>Portfolio</Link>
+          <Link href="/resume" className={`px-5 hover:font-semibold`}>Resume</Link>
+          <Link href="/services" className={`px-5 hover:font-semibold`}>Services</Link>      
         </div>
       </div>
     </main>
