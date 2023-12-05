@@ -11,7 +11,7 @@ h1, h2 {
   @apply font-bold text-primary text-lg;
 }
 main {
-  @apply max-w-5xl my-12 mx-auto px-8;
+  @apply max-w-5xl my-12 mx-auto px-5;
 }
 main > h2 {
   @apply mb-4 pb-2 text-base ;
@@ -26,11 +26,13 @@ a{
 /* nav styles */
 nav {
   @apply
-    pb-4
-    border-b-2 border-gray-200
-    flex items-center gap-5 
+    pb-3
+    justify-end
+    border-b-2 border-gray-500
+    flex items-start gap-12
     my-10 mx-auto 
-    max-w-5xl;
+    max-w-7xl
+    text-right;
 }
 nav a, nav span {
   @apply text-gray-700;
@@ -120,7 +122,23 @@ form button {
 .card p {
   @apply my-4 text-sm leading-6;
 }
-
+.container {
+  @apply
+  max-w-7xl my-12 mx-auto
+  bg-gray-50
+  border-2;
+  height: 1000px;
+}
+.left {
+  width:auto;
+  height:200px;
+  overflow:hidden;
+}
+.right {
+  height:200px;
+  width:200px;
+  float:left;
+}
 /* pill styles */
 .pill {
   @apply 

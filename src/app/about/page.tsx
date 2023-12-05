@@ -1,7 +1,9 @@
 export default function About() {
     return (
-        <main>
-            <h2>About testing</h2>
-        </main>
+        <div className="container">
+            <div className="right px-8">
+                <h2>About me</h2>
+            </div>
+        </div>
     )
 }
