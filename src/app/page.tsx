@@ -29,7 +29,7 @@ export default function Home() {
         <div className="px-5">
           <Link href="/"className={`pr-5 hover:font-semibold`}>Home</Link>
           <Link href="/about" className={`px-5 hover:font-semibold`}>About</Link>
-          <Link href="/contact" className={`px-5 hover:font-semibold`}>Contact</Link>
+          <Link href="/thought" className={`px-5 hover:font-semibold`}>Thought</Link>
           <Link href="/portfolio" className={`px-5 hover:font-semibold`}>Portfolio</Link>
           <Link href="/resume" className={`px-5 hover:font-semibold`}>Resume</Link>
           <Link href="/services" className={`px-5 hover:font-semibold`}>Services</Link>      

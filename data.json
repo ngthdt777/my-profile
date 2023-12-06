@@ -1,0 +1,19 @@
+{
+  "thoughts": [
+    {
+      "id": 1,
+      "title": "My deeply thought 1",
+      "content": "This to to test"
+    },
+    {
+      "id": 2,
+      "title": "My deeply thought 2",
+      "content": "This to to test"
+    },
+    {
+      "id": 1,
+      "title": "My deeply thought 3",
+      "content": "This to to test"
+    }
+  ]
+}
