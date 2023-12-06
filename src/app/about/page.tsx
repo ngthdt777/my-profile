@@ -36,7 +36,7 @@ and having opportunities to learn and experience.
                     </p>
                 </div>
                 <h2>SKILLS</h2>
-                <div className="grid grid-cols-5 py-5">
+                <div className="grid grid-cols-5 gap-6 py-5">
                     <Image src={css}
                         alt='css logo'
                         width={70}
