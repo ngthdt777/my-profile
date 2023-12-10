@@ -1,4 +1,4 @@
-import ThoughtList from "./ThoughtList";
+//import ThoughtList from "./ThoughtList";
 
 export default function Thought() {
     return (
