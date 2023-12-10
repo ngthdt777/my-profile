@@ -16,9 +16,9 @@ export default async function ThoughtList() {
             <div key={thought.id} className="card my-5">
                 <h3>{thought.title}</h3>
                 <p>{thought.content}</p>
-                {/* <div className={`pill ${thought.content}`}>
-                    {thought.content}
-                </div> */}
+                <div className={`pill ${thought.date}`}>
+                    {thought.date}
+                </div>
             </div>
         ))}
         {thoughts.length === 0 && (

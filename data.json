@@ -3,17 +3,20 @@
     {
       "id": 1,
       "title": "My deeply thought 1",
-      "content": "This to to test"
+      "content": "This to to test",
+      "date": "7/12/2023"
     },
     {
       "id": 2,
       "title": "My deeply thought 2",
-      "content": "This to to test"
+      "content": "This to to test",
+      "date": "7/12/2023"
     },
     {
-      "id": 1,
+      "id": 3,
       "title": "My deeply thought 3",
-      "content": "This to to test"
+      "content": "This to to test",
+      "date": "7/12/2023"
     }
   ]
 }

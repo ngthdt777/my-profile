@@ -128,8 +128,8 @@ form button {
 .pill.high {
   @apply bg-red-300 text-red-600;
 }
-.pill.medium {
-  @apply bg-blue-300 text-blue-600;
+.pill {
+  @apply bg-blue-300 text-blue-800;
 }
 .pill.low {
   @apply bg-emerald-300 text-emerald-600;
