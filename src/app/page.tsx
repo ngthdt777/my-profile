@@ -13,7 +13,7 @@ export default function Home() {
           rel="noopener noreferrer"
         >
           <h2 className={"mb-3 text-5xl font-bold"}>
-               Nguyen Thanh Dat{' '}
+               Nguyen Thanh Dat{" "}
           </h2>
           <p className={"m-0 max-w-[30ch] text-3x1 text-black pt-1 py-6"}>
               Pursue greatness!
