@@ -11,7 +11,7 @@ export default function Thought() {
                     </small>
                 </p>
             </div>
-            <ThoughtList/>
+            {/* <ThoughtList/> */}
         </main>
     )
 }
