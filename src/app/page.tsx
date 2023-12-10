@@ -1,14 +1,14 @@
 'use client'
 import Link from 'next/link'
-import { usePathname } from "next/navigation";
+//import { usePathname } from "next/navigation";
 import NavBar from './components/NavBar';
 
 
 
-export function isHomePage(){
-  const pathName = usePathname();
-  const showHeader = pathName === '/' ? false : true;
-}
+// export function isHomePage(){
+//   const pathName = usePathname();
+//   const showHeader = pathName === '/' ? false : true;
+// }
 
 export default function Home() {
   return (
