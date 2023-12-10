@@ -12,7 +12,7 @@ export default async function ThoughtList() {
     const thoughts = await getThoughts()
     return (
     <>
-        {thoughts.map((thought) =>(
+        {thoughts.map((thought:any) =>(
             <div key={thought.id} className="card my-5">
                 <h3>{thought.title}</h3>
                 <p>{thought.content}</p>
@@ -22,7 +22,7 @@ export default async function ThoughtList() {
             </div>
         ))}
         {thoughts.length === 0 && (
-            <p className="text-center">My life is considerable happy :)</p>
+            <p className="text-center">My life is considerable happy</p>
         )}
     </>
     )
