@@ -9,19 +9,30 @@ export default function Resume() {
                         <div>
                             <h1>Summary</h1>
                             <p>
-                            Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.
+                                - System developer within 2 years of experience. Familiar with Cloud Native technologies, application deployment and feature developement.</p>
+                            <p>
+                                - Proficient with teammates and have the ability to self-learn on certain tasks or jobs.
                             </p>   
                         </div>
                         <div>
                             <h1>Professional Experience</h1>
                             <p>
-                            Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.
+                                <h3>Software Engineer</h3>
+                                <h3>2022 - Now</h3>
+                                <p>
+
+                                </p>
                             </p>   
                         </div>
                         <div>
-                            <h1>Education</h1>
+                            <h2>Education</h2>
+                            <h2> ENGINEER DEGREE IN SOFTWARE ENGINEER </h2>
                             <p>
-                            Lorem Ipsum is simply dummy text of the printing and typesetting industry.
+                                2018-2022
+                                University of Technology, VietNam
+                            </p>
+                            <p>
+                            
                             </p>   
                         </div>   
                     </div>
